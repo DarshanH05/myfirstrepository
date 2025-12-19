@@ -10,4 +10,4 @@ git merge
 
 git fetch --- downloads the changeses that are made in the github
 git pull --- do both download and merge
-
+new
